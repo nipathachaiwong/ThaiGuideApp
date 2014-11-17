@@ -13,6 +13,8 @@
 		B446ADDA1A1A7713007F3CD7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B446ADD91A1A7713007F3CD7 /* Images.xcassets */; };
 		B446ADDD1A1A7713007F3CD7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B446ADDB1A1A7713007F3CD7 /* LaunchScreen.xib */; };
 		B446ADE91A1A7713007F3CD7 /* ThaiGuideAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B446ADE81A1A7713007F3CD7 /* ThaiGuideAppTests.swift */; };
+		B446ADF31A1A79C4007F3CD7 /* SideBarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B446ADF21A1A79C4007F3CD7 /* SideBarTableViewController.swift */; };
+		B446ADF51A1A82F6007F3CD7 /* SideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B446ADF41A1A82F6007F3CD7 /* SideBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		B446ADE21A1A7713007F3CD7 /* ThaiGuideAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThaiGuideAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B446ADE71A1A7713007F3CD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B446ADE81A1A7713007F3CD7 /* ThaiGuideAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiGuideAppTests.swift; sourceTree = "<group>"; };
+		B446ADF21A1A79C4007F3CD7 /* SideBarTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarTableViewController.swift; sourceTree = "<group>"; };
+		B446ADF41A1A82F6007F3CD7 /* SideBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				B446ADD21A1A7713007F3CD7 /* AppDelegate.swift */,
 				B446ADD41A1A7713007F3CD7 /* ViewController.swift */,
+				B446ADF21A1A79C4007F3CD7 /* SideBarTableViewController.swift */,
+				B446ADF41A1A82F6007F3CD7 /* SideBar.swift */,
 				B446ADD61A1A7713007F3CD7 /* Main.storyboard */,
 				B446ADD91A1A7713007F3CD7 /* Images.xcassets */,
 				B446ADDB1A1A7713007F3CD7 /* LaunchScreen.xib */,
@@ -213,6 +219,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B446ADD51A1A7713007F3CD7 /* ViewController.swift in Sources */,
+				B446ADF31A1A79C4007F3CD7 /* SideBarTableViewController.swift in Sources */,
+				B446ADF51A1A82F6007F3CD7 /* SideBar.swift in Sources */,
 				B446ADD31A1A7713007F3CD7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

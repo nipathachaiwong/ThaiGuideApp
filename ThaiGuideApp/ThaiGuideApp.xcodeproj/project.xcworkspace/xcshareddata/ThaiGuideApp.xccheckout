@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2881339-CF4D-4A1E-842B-0FD1AF2A20D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ThaiGuideApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA9D4B96984574393997A03E1D5CF0D4B6C4CEAA</key>
+		<string>https://github.com/nipathachaiwong/ThaiGuideApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ThaiGuideApp/ThaiGuideApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA9D4B96984574393997A03E1D5CF0D4B6C4CEAA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nipathachaiwong/ThaiGuideApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA9D4B96984574393997A03E1D5CF0D4B6C4CEAA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA9D4B96984574393997A03E1D5CF0D4B6C4CEAA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ThaiGuideApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
